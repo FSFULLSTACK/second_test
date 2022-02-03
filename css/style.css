@@ -1,0 +1,9 @@
+:root{
+   --primay-color: #F5F2E7;
+   --primay-color: #395B64
+
+}
+h1{
+color:var(--primay-color)
+
+}
